@@ -414,7 +414,7 @@ Status: {room.isAllocated ? "Allocated" : "Available"}
       {/* ---------------- FOOTER ---------------- */}
 
       <footer className="footer">
-        © 2026 Mohd Azeem | Smart Hostel Room Allocation | Version {APP_VERSION}
+        © 2026 Mohd Azeem | Smart Hostel Room Allocation Project| Version {APP_VERSION}
       </footer>
 
     </div>
